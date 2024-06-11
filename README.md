@@ -26,4 +26,4 @@ The analysis demonstrated the process of sentiment analysis on social network da
 
 **Additional Context:**
 
-The analysis was completed in March 2024 during the fourth semester of my MS in Data Science program as an assignment.
+The analysis was completed in March 2024 during the fourth semester of my MS in Data Science program as an assignment, reflecting a pivotal moment in my academic journey. It not only underscored my adeptness in handling real-world datasets but also highlighted my capability to navigate the intricacies of sentiment analysis using advanced machine learning techniques. Through meticulous data preprocessing, thoughtful model selection, and rigorous evaluation, I demonstrated a holistic understanding of the data science pipeline. This assignment provided me with invaluable hands-on experience, equipping me with the practical skills essential for tackling complex data challenges in the future.
