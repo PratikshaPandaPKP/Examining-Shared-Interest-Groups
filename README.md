@@ -23,3 +23,5 @@ The trained model was evaluated on the test data, achieving an accuracy of 75%. 
 **Conclusion:**
 
 The analysis demonstrated the process of sentiment analysis on social network data using machine learning techniques, aiming to classify tweets into positive and negative sentiments.
+
+**Additional Context:**
